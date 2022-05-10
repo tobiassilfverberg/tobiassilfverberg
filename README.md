@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tobias 👋</h1>
 <h3 align="center">A soon-to-be frontend developer from Malmö, Sweden. I specialize in frontend, with basic knowledge in backend, aswell as some knowledge about UI/UX.</h3>
 
-- 🌱 I’m currently learning **React, agile methods**
+- 🌱 I’m currently learning **React & agile methods**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
