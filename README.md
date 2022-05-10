@@ -37,7 +37,3 @@
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </div>
-
-<div> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobiassilfverberg&show_icons=true&locale=en&layout=compact" alt="tobiassilfverberg" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobiassilfverberg&show_icons=true&locale=en" alt="tobiassilfverberg" /></div>
-
